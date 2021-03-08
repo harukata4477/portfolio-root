@@ -1,0 +1,6 @@
+[submodule "api"]
+  path = api
+  url = https://github.com/harukata4477/portfolio-api.git
+[submodule "front"]
+  path = front
+  url = https://github.com/harukata4477/portfolio-front.git
