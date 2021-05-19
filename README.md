@@ -2,6 +2,8 @@
 【ポートフォリオ】成功者の地図が見れる Webアプリ「Post Map」  
 URL:
 
+![Readme1.png](./Readme1.png)
+
 ## 概要
 「Post Map」は、Mindmapアプリの一つです。
 目標達成、思考整理等のためにお使いください。
