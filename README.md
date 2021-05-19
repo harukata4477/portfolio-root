@@ -64,6 +64,7 @@ YoutubeやGoogle検索、SNSを観察している中で、ある一つの発見�
 - CRUD機能
 - ページネーション機能(kaminari)
 - いいね機能
+- タグ機能
 - コメント機能(Websocket)
 - フォロー機能
 - 通知機能(Websocket)
