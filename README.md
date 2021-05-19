@@ -1,12 +1,19 @@
-# Post Map
-【ポートフォリオ】成功者の地図が見れる Webアプリ「Post Map」  
+# Post Map 
 URL:
 
-![Readme1.png](./Readme1.png)
-![Readme2.png](./Readme2.png)
+
+- 投稿した記事
 ![Readme3.png](./Readme3.png)
 
-## 概要
+
+- 投稿一覧
+![Readme2.png](./Readme2.png)
+
+
+- マインドマップ作成
+![Readme1.png](./Readme1.png)
+
+## アプリについて(概要)
 「Post Map」は、Mindmapアプリの一つです。
 目標達成、思考整理等のためにお使いください。
 
@@ -41,14 +48,14 @@ YoutubeやGoogle検索、SNSを観察している中で、ある一つの発見�
 また、投稿時に意見をもらえるコメント機能がついているので、より前向きなものになっています。
 
 ## 使用技術
-- Ruby 2.7.2
+- Ruby 2.7.2 Rails 6.1.3
 - Nuxt(Vue.js)
 - Vuetify
 - Docker/docker-compose
 - Nginx, Unicorn(sockets通信)
 - Git, GitHub
 - Rubocop
-- AWS (EC2)
+- AWS (VPC, EC2, Route53)
 
 ## 機能一覧
 ### rails
@@ -66,6 +73,6 @@ YoutubeやGoogle検索、SNSを観察している中で、ある一つの発見�
 - 構文規約チェックツール(rubocop)
 
 ## 開発において意識した事
-- レスポンスの高速化
+- レスポンスの高速化。
 - 無駄な思考をしないよう、シンプルかつ色の統一を意識しました。
-- 
+- しっかり現状把握を行い、需要があり、被りがないものを作ろうと努めました。
