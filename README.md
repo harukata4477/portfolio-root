@@ -3,6 +3,8 @@
 URL:
 
 ![Readme1.png](./Readme1.png)
+![Readme2.png](./Readme2.png)
+![Readme3.png](./Readme3.png)
 
 ## 概要
 「Post Map」は、Mindmapアプリの一つです。
